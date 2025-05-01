@@ -129,5 +129,3 @@ def mostrar_info_continente():
 #Ejecución del programa
 if __name__ == "__main__":
     mostrar_info_continente()
-
-
